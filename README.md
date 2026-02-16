@@ -5,90 +5,90 @@
 
 * This project performs Exploratory Data Analysis (EDA) and Time Series Sales Forecasting using a retail Superstore dataset.
 
-The goal is to analyze historical sales patterns, identify trends and seasonality, and build forecasting models to predict future sales
+* The goal is to analyze historical sales patterns, identify trends and seasonality, and build forecasting models to predict future sales
 
 🎯 Objectives
 
-Clean and preprocess raw sales data
+* Clean and preprocess raw sales data
 
-Perform univariate and bivariate analysis
+* Perform univariate and bivariate analysis
 
-Analyze regional and category-level sales
+* Analyze regional and category-level sales
 
-Detect trends and seasonality
+* Detect trends and seasonality
 
-Build time-series forecasting models
+* Build time-series forecasting models
 
-Evaluate model performance using MAE
+* Evaluate model performance using MAE
 
 
 📂 Dataset
 
-Retail Superstore Sales Dataset
+* Retail Superstore Sales Dataset
 
-9,800 rows × 18 columns
+* 9,800 rows × 18 columns
 
-Includes:
+* Includes:
 
-Order Date
+* Order Date
 
-Region
+* Region
 
-Category
+* Category
 
-Sales
+* Sales
 
-Customer information
+* Customer information
 
-Time range: Multi-year transactional sales data.
+* Time range: Multi-year transactional sales data.
 
 
 Exploratory Data Analysis
 ✔ Data Cleaning
 
-Converted date columns to datetime format
+* Converted date columns to datetime format
 
-Checked for missing values
+* Checked for missing values
 
-Sorted data chronologically
+* Sorted data chronologically
 
 ✔ Univariate Analysis
 
-Sales distribution
+* Sales distribution
 
-Skewness and outlier detection
+* Skewness and outlier detection
 
-Statistical summary (mean, std, quartiles)
+* Statistical summary (mean, std, quartiles)
 
 ✔ Bivariate Analysis
 
-Sales by Region
+* Sales by Region
 
-Sales by Category
+* Sales by Category
 
-Correlation analysis
+* Correlation analysis
 
 ✔ Time Series Analysis
 
-Monthly sales aggregation
+* Monthly sales aggregation
 
-Trend visualization
+* Trend visualization
 
-Moving averages
+* Moving averages
 
-Growth rate calculation
+* Growth rate calculation
 
 
 🛠 Tools & Technologies
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-Matplotlib
+* Matplotlib
 
-Seaborn
+* Seaborn
 
-Scikit-learn
+* Scikit-learn
 
-Jupyter Notebook
+* Jupyter Notebook
