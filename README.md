@@ -20,3 +20,6 @@
 * Scikit-learn
 
 * Jupyter Notebook
+
+
+![image alt](https://github.com/AnkoshAde123/SuperStore-Sales/blob/6f9abaebda7d48cfd4ff3f1b263a563e894165ff/S1.png)
