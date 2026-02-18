@@ -1,0 +1,31 @@
+# To Check puip version
+pip --version          # pip 3.13 (python 3.13)
+
+# To upgrade pip 
+python.exe -m pip install --upgrate pip
+
+# To create virtual enviroments
+python -m venv .env 
+py -3.13 -m venv .env 
+ 
+# To active virtual enviroments
+.env\Scripts\activate.bat
+
+# create a Requirements.txt
+pip freeze > Requirements.txt
+
+# To install required packeges 
+pip install xgboost scikit-learn pandas numpy seaborn matplotlib  ipywidgets lazypredict streamlit --upgrade
+pip install -r Requirements.txt -- upgratede
+
+
+# To lunch webpage 
+python -m streamlit run app.py
+
+
+
+
+
+
+
+
