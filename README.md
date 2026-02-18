@@ -22,4 +22,4 @@
 * Jupyter Notebook
 
 
-![image alt](https://github.com/AnkoshAde123/SuperStore-Sales/blob/6f9abaebda7d48cfd4ff3f1b263a563e894165ff/S1.png)
+![image alt](https://github.com/AnkoshAde123/SuperStore-Sales/blob/5307525c26e1ddc9a09620fd74bab30d071da68f/S1.png)
